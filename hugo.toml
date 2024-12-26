@@ -1,0 +1,4 @@
+baseURL = 'https://kebre.net/'
+languageCode = 'en-us'
+title = 'kebre.net'
+theme = 'ananke'
