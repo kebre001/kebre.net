@@ -1,19 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>kebre.net</title>
-    <link>https://kebre.net/</link>
-    <description>Recent content on kebre.net</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Dec 2024 14:45:08 +0100</lastBuildDate>
-    <atom:link href="https://kebre.net/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Migrate to Hugo</title>
-      <link>https://kebre.net/posts/2024-12-26/</link>
-      <pubDate>Thu, 26 Dec 2024 14:45:08 +0100</pubDate>
-      <guid>https://kebre.net/posts/2024-12-26/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>kebre.net</title><link>http://localhost:1313/</link><description>Recent content on kebre.net</description><generator>Hugo</generator><language>en-us</language><copyright>&amp;copy; Copyright 2025, Kevin</copyright><lastBuildDate>Thu, 26 Dec 2024 14:45:08 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Migrate to Hugo</title><link>http://localhost:1313/posts/2024-12-26/</link><pubDate>Thu, 26 Dec 2024 14:45:08 +0100</pubDate><guid>http://localhost:1313/posts/2024-12-26/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This is &lt;strong>bold&lt;/strong> text, and this is &lt;em>emphasized&lt;/em> text.&lt;/p>
+&lt;p>Visit the &lt;a href="https://gohugo.io">Hugo&lt;/a> website!&lt;/p></description></item></channel></rss>
