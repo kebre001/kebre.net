@@ -25,6 +25,12 @@ copyright = "&copy; Copyright 2025, Kevin"
     title = "Categories"
     url = "/categories/"
     weight = -90
+  [[menu.main]]
+    identifier = "cvgaming"
+    name = "CvGaming"
+    title = "CvGaming"
+    url = "https://cvgaming.net/"
+    weight = -80
 
 # Configuration Features
 [params]
